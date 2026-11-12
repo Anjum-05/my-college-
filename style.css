@@ -1,0 +1,45 @@
+
+
+p{
+    font-family:'Times New Roman';
+    margin:10px;
+    border:2px solid blue;
+    padding: 5px;
+}
+h1{
+    color: brown;
+    font-size: 24px;
+
+}
+nav ul{
+    color: red;
+    padding-left:25px;
+}
+nav a{
+    color:darkgreen;
+}
+p{
+    color:peru;
+    max-width:450px;
+    font-size:14px;
+}
+H2{
+    color: darkolivegreen;
+}
+.college-images{
+    display: flex;
+    gap: 3px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.college-images img{
+    height: 115px;
+    object-fit: fill;
+}
+.college-image img:image1.png{
+    width:25px;
+}
+.college-images.jpg{
+    width:18px;
+}
+
